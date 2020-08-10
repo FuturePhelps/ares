@@ -395,8 +395,7 @@ _duty_dtmr_best_ereg = \
 'pq_func_par0[33]': 0.0154,
 }
 
-# NEEDS UPDATING
-_duty_dtmr_best_mreg = \
+_duty_dtmr_best_mreg = \ # NEEDS UPDATING
 {
 'pq_func_par0[0]': 0.1675,
 'pq_func_par1[0]': 59962271529.3613,
